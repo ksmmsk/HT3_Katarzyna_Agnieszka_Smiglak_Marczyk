@@ -18,12 +18,12 @@ pipeline {
         }
         stage('Run the get file metadata test') {
             steps {
-                bat 'npm run testdelete'
+                bat 'npm run testmetadata'
             }
         }
-                stage('Run the delete test') {
+        stage('Run the delete test') {
             steps {
-                bat 'npm run testmetadata'
+                bat 'npm run testdelete'
             }
         }
     }
