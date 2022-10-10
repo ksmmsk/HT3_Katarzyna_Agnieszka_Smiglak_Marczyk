@@ -1,0 +1,15 @@
+{
+  "name": "dropboxtestnewman",
+  "version": "1.0.0",
+  "description": "Test Dropbox API with newman and Jenkins integration",
+  "author": "Katarzyna Agnieszka Smiglak-Marczyk",
+  "scripts": {
+    "testall": "node ./script/test.js",
+    "testupload": "node ./script/test.js upload",
+    "testdelete": "node ./script/test.js delete",
+    "testmetadata": "node ./script/test.js metadata"
+  },
+  "devDependencies": {
+    "newman": "^5.3.2"
+  }
+}
