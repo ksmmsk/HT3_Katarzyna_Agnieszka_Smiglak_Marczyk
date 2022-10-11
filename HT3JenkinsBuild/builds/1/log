@@ -1,0 +1,219 @@
+Started by user [8mha:////4G16NJ3RDHOlUHTGPzW0tZZqYrYYkROMfkZL72RM4wREAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzlEgZu/dLi1CL97MSS4lwA7pAewMAAAAA=[0mKatarzyna Agnieszka Smiglak-Marczyk
+Obtained Jenkinsfile from git https://github.com/ksmmsk/HT3_Katarzyna_Agnieszka_Smiglak_Marczyk.git
+[8mha:////4Cy/OGxG8UVQQUczcDrRLWVWnvatfX1DVbtqFe0XXeDlAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4PEiaqA4QdiqlWZBNBMBfbPVVGgvwbt2NBzSTz/wcNwzAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4DOnEGt9ZPaijqRD0kE9K7mvyIsIr3CgzRpBTBQAXzgXAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in C:\ProgramData\Jenkins\.jenkins\workspace\HT3JenkinsBuild
+[8mha:////4HuoHkPzc6x28cTrxQQpSDbFxkLFO/cjvMu7XY4737AUAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4Mx3kG0+KpbJ05yp2n3hKvqHObUwZUivDSRoRXK9/TEOAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4OcJ1oyYOpijF6R7oL3Nz4lQnKdC3YP8eajowq0/+w7YAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4DGc67de8hxlqkM8lR8wUDOU4hq5LFvQOb4FebDlgSACAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/ksmmsk/HT3_Katarzyna_Agnieszka_Smiglak_Marczyk.git
+ > C:\Program Files\Git\cmd\git.exe init C:\ProgramData\Jenkins\.jenkins\workspace\HT3JenkinsBuild # timeout=10
+Fetching upstream changes from https://github.com/ksmmsk/HT3_Katarzyna_Agnieszka_Smiglak_Marczyk.git
+ > C:\Program Files\Git\cmd\git.exe --version # timeout=10
+ > git --version # 'git version 2.37.1.windows.1'
+ > C:\Program Files\Git\cmd\git.exe fetch --tags --force --progress -- https://github.com/ksmmsk/HT3_Katarzyna_Agnieszka_Smiglak_Marczyk.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > C:\Program Files\Git\cmd\git.exe config remote.origin.url https://github.com/ksmmsk/HT3_Katarzyna_Agnieszka_Smiglak_Marczyk.git # timeout=10
+ > C:\Program Files\Git\cmd\git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > C:\Program Files\Git\cmd\git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+Checking out Revision f651f0c78aaa59356b6eccf91bfc7aa82ccc1b0a (refs/remotes/origin/main)
+ > C:\Program Files\Git\cmd\git.exe config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\cmd\git.exe checkout -f f651f0c78aaa59356b6eccf91bfc7aa82ccc1b0a # timeout=10
+Commit message: "add a readme file"
+First time build. Skipping changelog.
+[8mha:////4BDieD+aUZ992uXo1Jx8lSH8m0KnR2J9IDyn+8AQb/G1AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4I63qIIpJ/vuzjSExV0VMhdk5js8YSvs2y4R7FIdDfY2AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4PpjTStyVnhF3GUg7l5zUXAFfbXs2z96xXMN0mzzj9SRAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4E+FHWAQP14VHNOKdTpfaDrJPqIcrQo6WPzK14AlzNGpAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4MKvaIBlmQ6DqUpnrSZGxjiJoOBbkI3Q5IV/rQIi70rLAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] stage
+[8mha:////4BtkBlK85KcUprn0OO4x16vuj+RaF0G76N7Z2ZOBkHg7AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] { (Get code from repository)
+[8mha:////4Ms7vtv1bTM0tss4MLEJHdKtdc92QnVvL+/H3NZn/SMeAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBgq0rvS+AAAA[0m[Pipeline] git
+Selected Git installation does not exist. Using Default
+The recommended git tool is: NONE
+No credentials specified
+ > C:\Program Files\Git\cmd\git.exe rev-parse --resolve-git-dir C:\ProgramData\Jenkins\.jenkins\workspace\HT3JenkinsBuild\.git # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\cmd\git.exe config remote.origin.url https://github.com/ksmmsk/HT3_Katarzyna_Agnieszka_Smiglak_Marczyk.git # timeout=10
+Fetching upstream changes from https://github.com/ksmmsk/HT3_Katarzyna_Agnieszka_Smiglak_Marczyk.git
+ > C:\Program Files\Git\cmd\git.exe --version # timeout=10
+ > git --version # 'git version 2.37.1.windows.1'
+ > C:\Program Files\Git\cmd\git.exe fetch --tags --force --progress -- https://github.com/ksmmsk/HT3_Katarzyna_Agnieszka_Smiglak_Marczyk.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > C:\Program Files\Git\cmd\git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+Checking out Revision f651f0c78aaa59356b6eccf91bfc7aa82ccc1b0a (refs/remotes/origin/main)
+ > C:\Program Files\Git\cmd\git.exe config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\cmd\git.exe checkout -f f651f0c78aaa59356b6eccf91bfc7aa82ccc1b0a # timeout=10
+ > C:\Program Files\Git\cmd\git.exe branch -a -v --no-abbrev # timeout=10
+ > C:\Program Files\Git\cmd\git.exe checkout -b main f651f0c78aaa59356b6eccf91bfc7aa82ccc1b0a # timeout=10
+Commit message: "add a readme file"
+[8mha:////4O0PrCbm5LF17ES+3cUh3Kw2JhFhIGAgiF49jZjR2DwEAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N7BnLt++AAAA[0m[Pipeline] }
+[8mha:////4KLlgwkO2BB8DBWAZC0bsAxXG84TwHgtfp7QH7UPt5aAAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N4glvS6+AAAA[0m[Pipeline] // stage
+[8mha:////4P51bjoOKxkcOnJB4T4/MgkjovNZ1ntMEw7uCAXrlSr6AAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUnRgQE2uUhROEJoSk0f9tkpJOnIircQdaKjHhwbItWe/1hioGOFEwzGnsLMbWst6PZk4sU+hunjJzdGUtYSSvmdBZkNLntQpKGlYVJWw4bDW2nqJFk2DHnXzI2ks09SWFeTtyKK0a4AkFn8lJhvQtU4D9fVSR8Mf5C4CpT1A2zWKH5Vl9ANydZ8vCAAAA[0m[Pipeline] stage
+[8mha:////4IcVNjUu/tdNslxDEJteeVUfX+jV9VX+vEq7OEIk/wEzAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUTCAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD0rlhNLCAAAA[0m[Pipeline] { (Install the dependencies)
+[8mha:////4PRjMR8anZNCg2IoRIxzVia3z5OkVwGisHVnDjVK7dLDAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiOhCiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBr2eB0O+AAAA[0m[Pipeline] bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\HT3JenkinsBuild>npm install 
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+npm WARN deprecated uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.
+
+added 111 packages, and audited 112 packages in 3s
+
+5 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+[8mha:////4PUXDPomk9RMi2z4g2zDHZDPvBqldr3Pa1164kfVkJABAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICVEgoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AEWNdkpvgAAAA==[0m[Pipeline] }
+[8mha:////4EV6cEPvRgoMb/c/KcUXk6mwwoaezRzzonsK+jwDRCZFAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKi0FAgqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AEi+zpyvgAAAA==[0m[Pipeline] // stage
+[8mha:////4LBfFy7RFnifZpchRYFOmlWQV8eGqVyrXybuxQJFwv9OAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohU7YqYWKMunCCkISSN/m+TlHbiRFyNOxCoxIQHy7ZkvecLyhjgSMFwp7G3GJXlg59MTnym0F89zdzRhSvCSF7zVs8tdfq01paShlUFg42ArUblKVo0CXbCybusvERTnVPI20EAs90IDyhEJicZ0rcsAfa3qYuEP85fACxDAlbX2Zrm8yzf8hZCqsIAAAA=[0m[Pipeline] stage
+[8mha:////4JezZZEUry+5UvSJgC9vVqQ05QbanJb1HInk7OOCz1u+AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUKiNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPpnFij8IAAAA=[0m[Pipeline] { (Run the upload test)
+[8mha:////4KXctlOidk+gOSFtT8iOmCy3Rl8OU8XE5HeVIY+ElrASAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiAR2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBrANZ3i+AAAA[0m[Pipeline] bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\HT3JenkinsBuild>npm run testupload 
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+
+> dropboxtestnewman@1.0.0 testupload
+> node ./script/test.js upload
+
+newman
+
+DropboxAPITest
+
+□ Upload test
+└ Upload a file to dropbox
+  POST https://api.dropbox.com/oauth2/token [200 OK, 680B, 256ms]
+  POST https://content.dropboxapi.com/2/files/upload [200 OK, 863B, 944ms]
+  √  Status code is 200
+  √  Response time is less than 5000ms
+  √  Uploaded file name is correct
+
+└ Post-test clean-up request: delete the added file
+  POST https://api.dropboxapi.com/2/files/delete_v2 [200 OK, 802B, 851ms]
+
+┌─────────────────────────┬─────────────────────┬────────────────────┐
+│                         │            executed │             failed │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│              iterations │                   1 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│                requests │                   3 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│            test-scripts │                   4 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│      prerequest-scripts │                   2 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│              assertions │                   3 │                  0 │
+├─────────────────────────┴─────────────────────┴────────────────────┤
+│ total run duration: 2.2s                                           │
+├────────────────────────────────────────────────────────────────────┤
+│ total data received: 935B (approx)                                 │
+├────────────────────────────────────────────────────────────────────┤
+│ average response time: 683ms [min: 256ms, max: 944ms, s.d.: 304ms] │
+└────────────────────────────────────────────────────────────────────┘
+[8mha:////4DBREqJdysw3zzpg6IFFdoXtj0hBXrfrlY9Rjiz8kfbjAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N+4u68W+AAAA[0m[Pipeline] }
+[8mha:////4IdYEiuD85ZQ4PCMRlEwnGSPMv2WCaJK9GmjwWi6wacUAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8LGsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DdZseDS+AAAA[0m[Pipeline] // stage
+[8mha:////4JoUDojxjJFp2n/wP6AzvmCjHie0eLW4sHuE0BcyKcT7AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZWFATF2jLpwgNCEkjf4vSUo6cSKuxh0IVGLCg2Vbst7zBVXwcCSvmVU4GAy9YaObdE4skR8ujhKzdGY9YSCnWKdSR1K1S+0oKlhUlLDisFbYOwoGdYQNt+IuaidQ16fo83bgUBp5gwcUPJOj8PFbZg/b6yQD4Y/zFwDzGKFsmmy7/edZvQFBh4/6wgAAAA==[0m[Pipeline] stage
+[8mha:////4CTVSdoFY2TMjWqLHlriRceOv3FRtGRPOPT96ZfSjOEdAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUYgEJMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfAAnLfKUwgAAAA==[0m[Pipeline] { (Run the get file metadata test)
+[8mha:////4Cb57mv9i9GS6Q05YAX5knOv5GoC7k9ntD4y1tmGnCGHAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiUYEQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNwcnzs++AAAA[0m[Pipeline] bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\HT3JenkinsBuild>npm run testmetadata 
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+
+> dropboxtestnewman@1.0.0 testmetadata
+> node ./script/test.js metadata
+
+newman
+
+DropboxAPITest
+
+□ Get File Metadata test
+└ Pre-test set-up: add a file
+  POST https://api.dropbox.com/oauth2/token [200 OK, 680B, 258ms]
+  POST https://content.dropboxapi.com/2/files/upload [200 OK, 863B, 965ms]
+
+└ Get file metadata
+  POST https://api.dropboxapi.com/2/sharing/get_file_metadata [200 OK, 830B, 474ms]
+  √  Status code is 200
+  √  Response time is less than 5000ms
+  √  The right file was displayed
+
+└ Post-test clean-up request: delete the added file
+  POST https://api.dropboxapi.com/2/files/delete_v2 [200 OK, 802B, 895ms]
+
+┌─────────────────────────┬─────────────────────┬────────────────────┐
+│                         │            executed │             failed │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│              iterations │                   1 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│                requests │                   4 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│            test-scripts │                   6 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│      prerequest-scripts │                   3 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│              assertions │                   3 │                  0 │
+├─────────────────────────┴─────────────────────┴────────────────────┤
+│ total run duration: 2.9s                                           │
+├────────────────────────────────────────────────────────────────────┤
+│ total data received: 1.34kB (approx)                               │
+├────────────────────────────────────────────────────────────────────┤
+│ average response time: 648ms [min: 258ms, max: 965ms, s.d.: 293ms] │
+└────────────────────────────────────────────────────────────────────┘
+[8mha:////4MMXEDOVF/8+8rgJ3JQ4BIuEIhsSr0cDiLZCVGGUjRy3AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCoEFCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw9hbYOkvgAAAA==[0m[Pipeline] }
+[8mha:////4Mmn22z6dP0ijrY/+urEmOBIZQV/Aa1SGk2K1+aipMm5AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioKBAqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw9Vo2D/vgAAAA==[0m[Pipeline] // stage
+[8mha:////4OQWmd9ZJO5D5kHq9/ylq8fj6TkRwY3vbjz3t5SDkWRyAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUhRExdY26cILQhJA0+r8kKenEibgadyBQiQkPlm3Jes8XVMHDkbxmVuFgMPSGjW7SObFEfrg4SszSmfWEgZxinUodSdUutaOoYFFRworDWmHvKBjUETbciruonUBdn6LP24FDaeQNHlDwTI7Cx2+ZPWyvkwyEP85fAMxjhLJpsu13n2f1BkYdNQzCAAAA[0m[Pipeline] stage
+[8mha:////4MZgNYUUc4HOfM9aVU/2Djgj/pTtQxYcZ6XJLfj1kPb2AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUoiNiYo26cILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMYAJwqGO42dxdha3vvRzIlnCt3NU+aOrrwljOQ1b3RuSOnzWhtKGlYVDDYCthpbT9GiSbATTj5k5SWa6pLCvB0FMKsGeEIhZnKSIX3LFGB/H1Uk/HH+AmDqE7D6sFi9PMsPfTawssIAAAA=[0m[Pipeline] { (Run the delete test)
+[8mha:////4PJAvNbRqKGk3T2osjRiIILSUnmgLoxplqxvGKFNaaG6AAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeghSxM6xsmVoPAEmiBDmfwJEUnkir+YdRDNj5RY7+7Z5zxesY4AjBc2swsFg7AzzbtJlsUxhuDrKzNKFdYSRnGJCZUG9Oi0oKClYUtWw4rBR2DmKBnWCLbfyLhsnUTfnFMp34FCbfoQHVLyYkwzpC3OA3W3qI+HP81cAs09Qt+2n9v4NGWcPtb4AAAA=[0m[Pipeline] bat
+
+C:\ProgramData\Jenkins\.jenkins\workspace\HT3JenkinsBuild>npm run testdelete 
+npm WARN config global `--global`, `--local` are deprecated. Use `--location=global` instead.
+
+> dropboxtestnewman@1.0.0 testdelete
+> node ./script/test.js delete
+
+newman
+
+DropboxAPITest
+
+□ Delete test
+└ Pre-test set-up: add a file
+  POST https://api.dropbox.com/oauth2/token [200 OK, 680B, 250ms]
+  POST https://content.dropboxapi.com/2/files/upload [200 OK, 863B, 1032ms]
+
+└ Delete a file from dropbox
+  POST https://api.dropboxapi.com/2/files/delete_v2 [200 OK, 803B, 2.4s]
+  √  Status code is 200
+  √  Response time is less than 5000ms
+  √  The right file was deleted
+
+┌─────────────────────────┬─────────────────────┬────────────────────┐
+│                         │            executed │             failed │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│              iterations │                   1 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│                requests │                   3 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│            test-scripts │                   4 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│      prerequest-scripts │                   2 │                  0 │
+├─────────────────────────┼─────────────────────┼────────────────────┤
+│              assertions │                   3 │                  0 │
+├─────────────────────────┴─────────────────────┴────────────────────┤
+│ total run duration: 3.9s                                           │
+├────────────────────────────────────────────────────────────────────┤
+│ total data received: 935B (approx)                                 │
+├────────────────────────────────────────────────────────────────────┤
+│ average response time: 1231ms [min: 250ms, max: 2.4s, s.d.: 893ms] │
+└────────────────────────────────────────────────────────────────────┘
+[8mha:////4Ct9Cp4kPOIX4t5Q1X46MozE/dOBHTbdXQiO2yTjIviGAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeghSZKwcK1uGxhNggghh/idAJJUn8mreQTQzVm6xs2+b93zBOgY4UtDMKhwMxs4w7yZdFssUhqujzCxdWEcYySkmVBbUq9OCgpKCJVUNKw4bhZ2jaFAn2HIr77JxEnVzTqF8Bw616Ud4QMWLOcmQvjAH2N2mPhL+PH8FMHufoG73n2rfGxSHer4AAAA=[0m[Pipeline] }
+[8mha:////4HheUwUj4mSw/TbNZWfQlbribGo89EkAvt+7PrluH6heAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDu9p/avgEjVhSLvgAAAA==[0m[Pipeline] // stage
+[8mha:////4LUim8C85VZizyjL3EaU2Tt73XXM+pDvfEXZ8Ti7h2ixAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKiiIICUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkG5P+Sq6w++tnfrvgAAAA==[0m[Pipeline] }
+[8mha:////4JPTQdpWUbhhFcIYg0vnVPRzxJ+1gVyEK9S/L4+iwOo3AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICokFCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDuD7l22w/9NCZtvgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4PT2wycqVe5DYYTkY3R9CITkhODOE+LiGvr1JCfwxmKoAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIpoEGIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfLsXZLsP/+idkr0AAAA=[0m[Pipeline] }
+[8mha:////4HFL1JnZTjiU3xBiBubFZJRFlL/+uZ1j6AwZ6VP8BlVpAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMJBgg5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77eCbPcBlS/sHL0AAAA=[0m[Pipeline] // node
+[8mha:////4LRVFFfrnRJ/Z6+qiwtVHskzX5+mZWoV0XOqv6WqyMr8AAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRiA5R0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77eCbPcBszaLVr0AAAA=[0m[Pipeline] End of Pipeline
+Finished: SUCCESS
